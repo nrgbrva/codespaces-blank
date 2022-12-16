@@ -1,0 +1,13 @@
+{
+    "workers":[
+        {
+            "name":"salam",
+            "age":20
+        },
+        {
+            "name":"dsaa",
+            "age":30
+        },
+
+    ]
+}
